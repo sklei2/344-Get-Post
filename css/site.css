@@ -24,7 +24,6 @@ form {
 
 .form-display {
 	display: flex;
-	margin-bottom: 2%;
 }
 	.form-display label {
 		min-width: 15%;
