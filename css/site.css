@@ -6,6 +6,10 @@ footer {
 	margin-top: 5%;
 }
 
+form {
+	margin-top: 5%;
+}
+
 .content {
 	margin-top:2%;
 	background-color: #ffffff;
@@ -17,3 +21,18 @@ footer {
 	.link-container a {
 		display: block;
 	}
+
+.form-display {
+	display: flex;
+	margin-bottom: 2%;
+}
+	.form-display label {
+		min-width: 15%;
+		max-width: 15%;
+	}
+
+	.form-display div {
+		margin-right: 2%;
+	}
+
+}
