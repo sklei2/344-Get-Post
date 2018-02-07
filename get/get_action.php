@@ -20,7 +20,7 @@
 				<label> State: </label>
 				<p> <?php echo $_GET['state']; ?> </p>
 			</div>
-			<div class="form-di">
+			<div class="form-display">
 				<label> Gender: </label>
 				<p> <?php echo $_GET['gender']; ?> </p>
 			</div>
